@@ -5,54 +5,82 @@
       "id": 1,
       "title": "Album 1",
       "userId": 1,
-      "imgSrc": "https://picsum.photos/id/201/300/200",
+      "imgSrc": "https://picsum.photos/id/10/300/200",
       "imgAlt": "Card Image 1",
       "description": "This is the card description section. You can add more details about the product here"
     },
     {
       "id": 2,
       "title": "Album 2",
-      "userId": 2
+      "userId": 2,
+      "imgSrc": "https://picsum.photos/id/11/300/200",
+      "imgAlt": "Card Image 1",
+      "description": "This is the card description section. You can add more details about the product here"
     },
     {
       "id": 3,
       "title": "Album 3",
-      "userId": 1
+      "userId": 1,
+      "imgSrc": "https://picsum.photos/id/12/300/200",
+      "imgAlt": "Card Image 1",
+      "description": "This is the card description section. You can add more details about the product here"
+      
     },
     {
       "id": 4,
       "title": "Album 4",
-      "userId": 3
+      "userId": 3,
+      "imgSrc": "https://picsum.photos/id/15/300/200",
+      "imgAlt": "Card Image 1",
+      "description": "This is the card description section. You can add more details about the product here"
     },
     {
       "id": 5,
       "title": "Album 5",
-      "userId": 2
+      "userId": 2,
+      "imgSrc": "https://picsum.photos/id/26/300/200",
+      "imgAlt": "Card Image 1",
+      "description": "This is the card description section. You can add more details about the product here"
     },
     {
       "id": 6,
       "title": "Album 6",
-      "userId": 3
+      "userId": 3,
+      "imgSrc": "https://picsum.photos/id/29/300/200",
+      "imgAlt": "Card Image 1",
+      "description": "This is the card description section. You can add more details about the product here"
     },
     {
       "id": 7,
       "title": "Album 7",
-      "userId": 1
+      "userId": 1,
+      "imgSrc": "https://picsum.photos/id/30/300/200",
+      "imgAlt": "Card Image 1",
+      "description": "This is the card description section. You can add more details about the product here"
     },
     {
       "id": 8,
       "title": "Album 8",
-      "userId": 2
+      "userId": 2,
+      "imgSrc": "https://picsum.photos/id/83/300/200",
+      "imgAlt": "Card Image 1",
+      "description": "This is the card description section. You can add more details about the product here"
     },
     {
       "id": 9,
       "title": "Album 9",
-      "userId": 3
+      "userId": 3,
+      "imgSrc": "https://picsum.photos/id/96/300/200",
+      "imgAlt": "Card Image 1",
+      "description": "This is the card description section. You can add more details about the product here"
     },
     {
       "id": 10,
       "title": "Album 10",
-      "userId": 1
+      "userId": 1,
+      "imgSrc": "https://picsum.photos/id/249/300/200",
+      "imgAlt": "Card Image 1",
+      "description": "This is the card description section. You can add more details about the product here"
     }
   ]
 }
